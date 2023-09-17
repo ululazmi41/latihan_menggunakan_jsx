@@ -9,6 +9,7 @@ const element = (
       <li>Nama: Dicoding Indonesia</li>
       <li>Bidang: Education</li>
       <li>Tagline: Decode Ideas, Discover Potential.</li>
+      {/* <img src="dicoding-logo.png" alt="Dicoding logo" /> */}
       <img src={DicodingLogo} alt="Dicoding logo" />
     </ul>
   </div>
